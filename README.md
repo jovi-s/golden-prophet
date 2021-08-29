@@ -62,7 +62,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jovinder Singh - [@j0v3s](https://twitter.com/j0v3s) - jovinder@yahoo.com
 
-Project Link: [https://github.com/jovi-s/linkedin-job-keywords](https://github.com/jovi-s/linkedin-job-keywords)
+Project Link: [https://github.com/jovi-s/golden-prophet](https://github.com/jovi-s/golden-prophet)
 
 Website: https://jovinder.com/
 
